@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Esteem\n"
 "POT-Creation-Date: 2016-03-03 10:29+0200\n"
-"PO-Revision-Date: 2016-03-03 10:35+0200\n"
+"PO-Revision-Date: 2016-08-02 08:50+0300\n"
 "Language-Team: ThemeGrill <themegrill@gmail.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -34,7 +34,7 @@ msgstr ""
 #, php-format
 msgid "One thought on &ldquo;%2$s&rdquo;"
 msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
-msgstr[0] "Ajatus &ldquo;%2$s&rdquo;"
+msgstr[0] "Yksi kommentti &ldquo;%2$s&rdquo;"
 msgstr[1] "%1$s ajatusta &ldquo;%2$s&rdquo;"
 
 #: comments.php:38 comments.php:56
@@ -76,7 +76,7 @@ msgstr "Sivulle pääsy on rajoitettu. Tarvitset laajemmat oikeudet."
 
 #: functions.php:228
 msgid "Theme Options"
-msgstr "Theme Options"
+msgstr "Teeman asetukset"
 
 #: functions.php:230
 #, php-format
